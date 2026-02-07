@@ -13,7 +13,7 @@ Advanced Network Monitoring Tool with Auto-Resume &amp; Safety Features.
 * **Eco Mode:** Low power consumption running in the background.
 
 ### 📥 Download
-You can download the latest version from the **[Releases Section]**(../../releases).
+You can download the latest version from the **[Releases Section](../../releases)**.
 
 ### 🛠️ How to Use
 1. Download the `.exe` file.
