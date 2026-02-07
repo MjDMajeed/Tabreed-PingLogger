@@ -1,29 +1,40 @@
 # Tabreed-PingLogger
-Advanced Network Monitoring Tool with Auto-Resume &amp; Safety Features.
 
-# PingLogger v1.1 (Stable)
+**Enterprise-Grade Network Monitoring Utility with Auto-Recovery & System Safety.**
 
-**PingLogger** is an advanced network monitoring tool designed for technicians and IT professionals.
+---
+
+# PingLogger v1.1 (Stable Release)
+
+**PingLogger** is a specialized network diagnostics tool engineered for **Plant, Automation Technicians, Engineers, and IT Professionals**. It ensures continuous connectivity monitoring for critical assets like ETS, PLCs, Servers, and Control Room PCs.
 
 ### 🚀 Key Features
-* **Auto-Resume:** Automatically resumes the last session (Single or Multi) after a system restart/crash.
-* **Deep Cleaning:** Auto-cleans broken shortcuts and background instances.
-* **Multi-Target Mode:** Monitor up to 5 IPs simultaneously with live logs.
-* **Safety Auto-Close:** Automatically closes after 90 days to prevent memory leaks (Configurable).
-* **Eco Mode:** Low power consumption running in the background.
+
+* **⚡ Smart Auto-Resume:** Intelligently restores the previous monitoring session (Single or Multi-Target) immediately after a system restart, power failure, or crash.
+* **🧹 System Hygiene:** Automatically detects and purges broken startup shortcuts and terminates ghost background processes to ensure stability.
+* **🟣 Multi-Point Monitoring:** Track connectivity for up to **5 critical devices** simultaneously with real-time status logging and comparison.
+* **🛡️ Safety Auto-Termination:** Includes a configurable fail-safe timer (default: 90 days) to prevent indefinite background execution on maintenance terminals.
+* **🔋 Eco-Performance Mode:** Optimized for minimal resource usage (CPU/Disk), ensuring zero impact on host system performance.
 
 ### 📥 Download
-You can download the latest version from the **[Releases Section](../../releases)**.
 
-## 📖 User Manual
-Want to know how to use Multi-Mode, Auto-Resume, or Smart Cleaning?  
-👉 **[Click here to read the Full User Guide](USER_GUIDE.md)**
+Get the latest stable executable from the **[Releases Section](../../releases)**.
+
+---
+
+### 📖 User Manual
+
+Need detailed instructions on using Multi-Mode, Auto-Resume, or Deep Cleaning?  
+👉 **[Click here to access the Complete User Guide](USER_GUIDE.md)**
+
+---
 
 ### 🛠️ How to Use
-1. Download the `.exe` file.
-2. Run as Administrator (recommended).
-3. Enter IP and Click Start.
-4. Minimize to Tray to run in background.
+
+1.  Download the latest `.exe` binary.
+2.  Execute as **Administrator** (Recommended for full functionality).
+3.  Input the target IP/Hostname and hit **Start**.
+4.  Click **Minimize** to send the application to the System Tray for silent background monitoring.
 
 ---
 *Developed by Majeed : Automation AI1*
